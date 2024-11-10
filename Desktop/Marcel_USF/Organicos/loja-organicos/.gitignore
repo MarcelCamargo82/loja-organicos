@@ -1,0 +1,18 @@
+# Ignorar pastas do sistema
+.android/
+.angular-config.json
+.cache/
+.cisco/
+.dotnet/
+.eclipse/
+.nbi/
+.p2/
+.vscode/
+
+# Ignorar pastas do usuário
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Videos/
+Temp/
